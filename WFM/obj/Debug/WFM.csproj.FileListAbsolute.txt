@@ -1,0 +1,13 @@
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\obj\Debug\WFM.csprojAssemblyReference.cache
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\obj\Debug\WFM.Form1.resources
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\obj\Debug\WFM.Properties.Resources.resources
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\obj\Debug\WFM.csproj.GenerateResource.cache
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\obj\Debug\WFM.csproj.CoreCompileInputs.cache
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\bin\Debug\WFM.exe.config
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\bin\Debug\WFM.exe
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\bin\Debug\WFM.pdb
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\obj\Debug\WFM.exe
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\obj\Debug\WFM.pdb
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\bin\Debug\Dapper.dll
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\bin\Debug\Dapper.xml
+C:\Users\k0712\OneDrive\Documents\salosha\WFM\WFM\obj\Debug\WFM.csproj.CopyComplete
